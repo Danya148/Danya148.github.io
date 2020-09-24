@@ -1,0 +1,56 @@
+
+.estilo-encabezado1{
+    float: left;
+}
+#acerca{
+    font-size: 40px;
+    text-align: center;
+    font-family: cursive; 
+}
+
+#form{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;  
+}
+
+#Log{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px; 
+}
+
+#acer{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+}
+
+
+.form-control{
+    background-color: pink;
+}
+.btn btn-primary{
+
+}
+
+.vercur{
+    text-align: center;
+    color: red;
+}
+
+.imgboton{
+    float: center;
+    width: 500px;
+    height: 500px;
+    border: turquoise;
+    border-style: solid;
+}
+
+.imagen{
+    float: left;
+    width: 500px;
+    height: 500px;
+    border: turquoise;
+    border-style: solid;
+}
